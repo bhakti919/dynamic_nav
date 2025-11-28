@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+env/
+venv/
+robot_env/
+
+# Pygame cache
+*.log
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Recordings
+recordings/
