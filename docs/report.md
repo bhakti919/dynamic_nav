@@ -8,9 +8,9 @@
 - Local controller: simple point follower (pure pursuit recommended next)
 
 **System Architecture**
-- `src/` — simulator + planners
-- `recordings/` — demo videos/screenshots
-- `docs/` — documentation
+- src — simulator + planners
+- recordings — demo videos/screenshots
+- docs — documentation
 
 **Performance (example)**
 - Avg planning time: ~0.2–1.5s (depends on RRT iterations)
