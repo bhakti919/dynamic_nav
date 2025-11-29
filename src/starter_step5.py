@@ -112,8 +112,8 @@ while running:
         if dist < 2:
             path_index += 1
         else:
-            robot_x += dx * 0.07
-            robot_y += dy * 0.07
+            robot_x += dx * 0.15
+            robot_y += dy * 0.15
 
     screen.fill((25, 25, 25))
 
